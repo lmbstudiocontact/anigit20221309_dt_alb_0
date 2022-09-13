@@ -1,0 +1,90 @@
+{
+  "id_alb": "-1350794427",
+  "index_page": 0,
+  "name_alb": "Interviews With Monster Girls",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-1793484763",
+  "hc_lt_data_img": "1291052515",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "588810682",
+  "lt_alb": [
+    {
+      "id_alb": "-1350794427",
+      "name_alb": "Interviews With Monster Girls",
+      "total_img": 1
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1357557159",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-821200922",
+      "id_img": "InterviewsWithMonsterGirls_794549_crop2608_30874020",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0CNZXi0zv8OT98IpoknMZ6v+II6/UmgzoRZ0Sb/+KJ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0CNZXi0zv8OT98IpoknMZz8Tbh9PSlpCtBYu0wv24ZJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1350794427",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-564636969",
+        "154003721",
+        "1211227273",
+        "-326078627",
+        "1600730941",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

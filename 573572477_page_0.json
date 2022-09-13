@@ -1,0 +1,194 @@
+{
+  "id_alb": "573572477",
+  "index_page": 0,
+  "name_alb": "Gonna be the TwinTail",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "1961051676",
+  "hc_lt_data_img": "1940234702",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "1715743612",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "573572477",
+      "name_alb": "Gonna be the TwinTail",
+      "total_img": 4
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-747789025",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-451445181",
+      "id_img": "GonnabetheTwinTail_706623_crop2608_-1498171426",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdLD9nANHws12/YBcUklSi9MX+qLy/IP3Yr6OP0PoLp5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdLD9nANHws12/YBcUklSihrPpy9FmFHfS9rdE+Ew/F5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "573572477"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-369654561",
+        "-1436512555",
+        "-1364967268",
+        "-326078627",
+        "-143162340",
+        "1911583362",
+        "-1786946560"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-747789025",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-755624881",
+      "id_img": "GonnabetheTwinTail_745005_crop2608_627261825",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUk+GzWD4WzRhsLXvGyK1rX/HRDmJ2btw9muzI1g7xsJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUk+GzWD4WzRhsLXvGyK1rBfQaKw7eX1r8483gRBMwYJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "573572477"
+      ],
+      "lt_id_sptag": [
+        "-369654561",
+        "-1436512555",
+        "-1364967268",
+        "-326078627",
+        "1600730941",
+        "-143534545",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-747789025",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "545433507",
+      "id_img": "GonnabetheTwinTail_838098_crop2608_-2000459754",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTemmc4eHYOahWxCwlpKuIHjsa6gFC9e0LsfQhSmQNJZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTemmc4eHYOahWxCwlpKuIiJFkpV+HndsZs14Mt5jS1JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "573572477"
+      ],
+      "lt_id_sptag": [
+        "635632331",
+        "-326078627",
+        "-143162340",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-747789025",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-781439793",
+      "id_img": "GonnabetheTwinTail_974962_crop2608_-1427770397",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyJASTMdIGYvBLBYzsL7UUiqLBLFBOoVJeAMAZ/Nm+bZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyJASTMdIGYvBLBYzsL7UUvWgZdq0LwAzZlNRsC21/3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "573572477"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-1364967268",
+        "-326078627",
+        "-1743477818",
+        "1600730941",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-143162340",
+      "key_sptag": "isGirlHairRedAnime",
+      "name_sptag": "Girls Hair Red",
+      "total": 3081
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "635632331",
+      "key_sptag": "isGirlEyesPinkAnime",
+      "name_sptag": "Girls Eyes Pink",
+      "total": 1874
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

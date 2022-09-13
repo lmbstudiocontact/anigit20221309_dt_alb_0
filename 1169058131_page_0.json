@@ -1,0 +1,113 @@
+{
+  "id_alb": "1169058131",
+  "index_page": 0,
+  "name_alb": "Katahane",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "1151239560",
+  "hc_lt_data_img": "-1658071974",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-209148879",
+  "lt_alb": [
+    {
+      "id_alb": "1169058131",
+      "name_alb": "Katahane",
+      "total_img": 2
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-798703815",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1107218397",
+      "id_img": "Katahane_244837_crop2608_-39231382",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLI6L3vrzQGrchPETOk4FeKv+h7vB1iPHCtRwqOPkFOZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLI6L3vrzQGrchPETOk4FeKybYxfhN1OM16B05RiqXGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1169058131",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "-326078627",
+        "-143534545",
+        "1911583362",
+        "635218351",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-798703815",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1408064422",
+      "id_img": "Katahane_244837_crop2608_903072488",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiielJBZjWukxYsPWcgGj7T30Cjmox79FnwdRvHsjirt1+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiielJBZjWukxYsPWcgGj7T30ghdB760IvddjR3Hf3jJcVpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1169058131",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-2139213873",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

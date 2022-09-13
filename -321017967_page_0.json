@@ -1,0 +1,112 @@
+{
+  "id_alb": "-321017967",
+  "index_page": 0,
+  "name_alb": "Koiken Otome",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-1914427870",
+  "hc_lt_data_img": "-786952392",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-354944081",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-321017967",
+      "name_alb": "Koiken Otome",
+      "total_img": 2
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "566289171",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "254945691",
+      "id_img": "KoikenOtome_780498_crop2608_-1558425246",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7jQjbnnK4y0fR7X9XPJFa50a0nJEOXC7LaKcQZ/CLQZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7jQjbnnK4y0fR7X9XPJFaQvnIBdI/CwlwxMWi3WAnN5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-321017967"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-326078627",
+        "1600730941",
+        "-143162340"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "566289171",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-92768474",
+      "id_img": "KoikenOtome_780496_crop2608_527865230",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpNuHzRoYc4V/CH9Mm2Aw+9Lxz4ku0Y0gnqPMLmWtccZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpNuHzRoYc4V/CH9Mm2Aw+FZ+YIjS/nCNV32pEmFkXz5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-321017967"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-143162340",
+      "key_sptag": "isGirlHairRedAnime",
+      "name_sptag": "Girls Hair Red",
+      "total": 3081
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

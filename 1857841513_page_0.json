@@ -1,0 +1,129 @@
+{
+  "id_alb": "1857841513",
+  "index_page": 0,
+  "name_alb": "Kodomo No Jikan",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "1226179388",
+  "hc_lt_data_img": "1066396304",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1206109133",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "1857841513",
+      "name_alb": "Kodomo No Jikan",
+      "total_img": 2
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1528036949",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "444401153",
+      "id_img": "KodomoNoJikan_231574_crop2608_-1604540276",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFPWDyHv9PBC+FiGcbQaJycJ4J2m9cOYeusQRjdutWZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFPWDyHv9PBC+FiGcbQaJyL3JCnHPmdDtTiaTxR4rhh5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1857841513"
+      ],
+      "lt_id_sptag": [
+        "-120608061",
+        "-326078627",
+        "1600730941",
+        "-1783086774",
+        "679383692",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1528036949",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "299725075",
+      "id_img": "KodomoNoJikan_907906_crop2608_-1737647319",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrZDmA7tl5OMLnCw+fnDkslqi/U2A4SfHIFy1jKd9gTJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrZDmA7tl5OMLnCw+fnDksUsjfsXndDWf73TthOFOu8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1857841513"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-120608061",
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "-1783086774",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
+    },
+    {
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

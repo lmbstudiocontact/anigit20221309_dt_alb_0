@@ -1,0 +1,76 @@
+{
+  "id_alb": "-1524570066",
+  "index_page": 0,
+  "name_alb": "Gatchaman Crowds",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-1310994248",
+  "hc_lt_data_img": "-195974734",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-416513402",
+  "lt_alb": [
+    {
+      "id_alb": "-1524570066",
+      "name_alb": "Gatchaman Crowds",
+      "total_img": 1
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1362842109",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1826905526",
+      "id_img": "GatchamanCrowds_951588_crop2608_-1611319117",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep2GJ+id2XmitBM6UgN9J1fNxPEdPWm0Oycv+IvB/ftZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep2GJ+id2XmitBM6UgN9J1ov8I1kl3h5/6QykOCULhLZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1524570066",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1782893951",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}
