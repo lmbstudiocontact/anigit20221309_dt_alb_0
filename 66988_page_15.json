@@ -4,20 +4,20 @@
   "name_alb": "Boy",
   "total_img": 8592,
   "total_page": 18,
-  "hc_lt_alb": "-1630433815",
+  "hc_lt_alb": "-1305786407",
   "hc_lt_data_img": "-1352349528",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1515262564",
+  "hc_lt_sptag": "-966883020",
   "lt_alb": [
-    {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
-    },
     {
       "id_alb": "-1789716255",
       "name_alb": "Kimetsu No Yaiba",
       "total_img": 402
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     }
   ],
   "lt_data_img": [
@@ -5729,16 +5729,16 @@
   ],
   "lt_sptag": [
     {
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
+    },
+    {
       "id_sptag": "-1880367671",
       "key_sptag": "isBoyDarkBlack",
       "name_sptag": "Boy Dark Black",
       "total": 573
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
     },
     {
       "id_sptag": "82870",
@@ -5747,10 +5747,10 @@
       "total": 12057
     },
     {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     }
   ]
 }

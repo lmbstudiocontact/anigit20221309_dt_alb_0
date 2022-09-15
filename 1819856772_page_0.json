@@ -4,10 +4,10 @@
   "name_alb": "Chinese Manhua China",
   "total_img": 65,
   "total_page": 0,
-  "hc_lt_alb": "1897732352",
+  "hc_lt_alb": "2059017716",
   "hc_lt_data_img": "-1103762790",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "627124787",
+  "hc_lt_sptag": "-134002095",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -15,14 +15,14 @@
       "total_img": 68557
     },
     {
-      "id_alb": "1819856772",
-      "name_alb": "Chinese Manhua China",
-      "total_img": 65
-    },
-    {
       "id_alb": "2024260576",
       "name_alb": "Couple",
       "total_img": 2059
+    },
+    {
+      "id_alb": "1819856772",
+      "name_alb": "Chinese Manhua China",
+      "total_img": 65
     }
   ],
   "lt_data_img": [
@@ -1307,28 +1307,16 @@
   ],
   "lt_sptag": [
     {
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
+    },
+    {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
       "name_sptag": "Girls Hair Black",
       "total": 16737
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
     },
     {
       "id_sptag": "1600730941",
@@ -1337,34 +1325,16 @@
       "total": 31431
     },
     {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "410439701",
-      "key_sptag": "isGirlEarsNekoAnime",
-      "name_sptag": "Girls Ears Neko",
-      "total": 7031
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
     },
     {
       "id_sptag": "-143528947",
@@ -1373,10 +1343,46 @@
       "total": 13760
     },
     {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
       "id_sptag": "-2139213873",
       "key_sptag": "isGirlShortHairAnime",
       "name_sptag": "Girls Short Hair",
       "total": 23769
+    },
+    {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
     },
     {
       "id_sptag": "-1364967268",
@@ -1391,34 +1397,10 @@
       "total": 25656
     },
     {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     },
     {
       "id_sptag": "1211227273",
@@ -1427,10 +1409,28 @@
       "total": 6605
     },
     {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
       "id_sptag": "679383692",
       "key_sptag": "isGirlKimonoAnime",
       "name_sptag": "Girls Kimono Yukata Cheongsam",
       "total": 7942
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }
