@@ -4,20 +4,20 @@
   "name_alb": "Rail Wars",
   "total_img": 1,
   "total_page": 0,
-  "hc_lt_alb": "50624787",
+  "hc_lt_alb": "-1428619537",
   "hc_lt_data_img": "444144380",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1257464950",
+  "hc_lt_sptag": "1125186572",
   "lt_alb": [
-    {
-      "id_alb": "1189295705",
-      "name_alb": "Rail Wars",
-      "total_img": 1
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "1189295705",
+      "name_alb": "Rail Wars",
+      "total_img": 1
     }
   ],
   "lt_data_img": [
@@ -44,22 +44,22 @@
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
     },
     {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
     },
     {
       "id_sptag": "1439812287",
@@ -74,10 +74,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

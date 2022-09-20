@@ -4,23 +4,34 @@
   "name_alb": "Kamen Rider Ooo",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "-1611130667",
+  "hc_lt_alb": "1407757677",
   "hc_lt_data_img": "559793341",
   "hc_lt_nortag": "",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
-      "id_alb": "2022328361",
-      "name_alb": "Kamen Rider Ooo",
-      "total_img": 5
-    },
-    {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "2022328361",
+      "name_alb": "Kamen Rider Ooo",
+      "total_img": 5
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "2080454770",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamenRiderOoo_330006_crop2608_-868889195",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyTwkL3VaabzkSo9R8iaEZ+hfTYR4GL9oW5Cq9UF1R9pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyTwkL3VaabzkSo9R8iaEZIRgXWwwIqXJOiRZ3+H3a0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2022328361"
+      ]
+    },
     {
       "hc_lt_id_alb": "121123847",
       "hc_lt_id_nortag": "",
@@ -28,18 +39,6 @@
       "id_img": "KamenRiderOoo_230943_crop2608_1435380645",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIDLA5z8Cv69r9TAubjA8QN1ykjif+JuU8AWLl/n0KK5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIDLA5z8Cv69r9TAubjA8QuWmfecIJXN8/BgBOlqAx95Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2022328361",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "121123847",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamenRiderOoo_230944_crop2608_-1352034842",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNA5cf3Gw9Rse1i/KF02+SuxnOUNJ+3y1Ls78QihUvgZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNA5cf3Gw9Rse1i/KF02+SZXGIf9C1+FbrLgfG/X7YWpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "2022328361",
         "66988"
@@ -57,14 +56,15 @@
       ]
     },
     {
-      "hc_lt_id_alb": "2080454770",
+      "hc_lt_id_alb": "121123847",
       "hc_lt_id_nortag": "",
       "hc_lt_id_sptag": "",
-      "id_img": "KamenRiderOoo_330006_crop2608_-868889195",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyTwkL3VaabzkSo9R8iaEZ+hfTYR4GL9oW5Cq9UF1R9pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyTwkL3VaabzkSo9R8iaEZIRgXWwwIqXJOiRZ3+H3a0JVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KamenRiderOoo_230944_crop2608_-1352034842",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNA5cf3Gw9Rse1i/KF02+SuxnOUNJ+3y1Ls78QihUvgZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNA5cf3Gw9Rse1i/KF02+SZXGIf9C1+FbrLgfG/X7YWpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "2022328361"
+        "2022328361",
+        "66988"
       ]
     },
     {

@@ -4,15 +4,15 @@
   "name_alb": "Log Horizon",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "1121509154",
-  "hc_lt_data_img": "-1220726437",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1920500521",
+  "hc_lt_alb": "1728885794",
+  "hc_lt_data_img": "1586715218",
+  "hc_lt_nortag": "-232698705",
+  "hc_lt_sptag": "-562775665",
   "lt_alb": [
     {
-      "id_alb": "1745749119",
-      "name_alb": "Log Horizon",
-      "total_img": 6
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "68811063",
@@ -20,15 +20,15 @@
       "total_img": 68557
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "1745749119",
+      "name_alb": "Log Horizon",
+      "total_img": 6
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "850701204",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-775640498",
       "hc_lt_id_sptag": "-1525343718",
       "id_img": "LogHorizon_727974_crop2608_-568348076",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1MQB/XRKZIbX7HflG73kKm9RdCj0kUoGRA38GTXUBYpVy4706IhQgSYlgwrgVRHU=",
@@ -37,33 +37,14 @@
         "1745749119",
         "68811063"
       ],
+      "list_id_nortag": [
+        "-837850212"
+      ],
       "lt_id_sptag": [
         "-154622774",
         "-1364967268",
         "-326078627",
         "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "184277411",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LogHorizon_789855_crop2608_1663105912",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAUNYcJQefMJKGj8smamXYqyPbLAIbqKIDiebckztfhpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAUNYcJQefMJKGj8smamXYJsNi3bROH34aGp0crq32K5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1745749119"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "184277411",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LogHorizon_789855_crop2608_2135921050",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif91Ir5zgghUqf+kdu+99EfJudnbthKZSNR7gTSDMbShZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif91Ir5zgghUqf+kdu+99EfaqAfnkFvfwIZWvu7X+X22JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1745749119"
       ]
     },
     {
@@ -87,20 +68,22 @@
       ]
     },
     {
-      "hc_lt_id_alb": "1469167862",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "184277411",
+      "hc_lt_id_nortag": "1884946112",
       "hc_lt_id_sptag": "",
-      "id_img": "LogHorizon_904292_crop2608_-1090621206",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvKc+jkvvVl6yW8Ycw41Fgm75sfTq2um+qSGxB7nYvPpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvKc+jkvvVl6yW8Ycw41FgINpAZTg6BqDcNcyYmFRlyJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "LogHorizon_789855_crop2608_1663105912",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAUNYcJQefMJKGj8smamXYqyPbLAIbqKIDiebckztfhpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAUNYcJQefMJKGj8smamXYJsNi3bROH34aGp0crq32K5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "1745749119",
-        "66988"
+        "1745749119"
+      ],
+      "list_id_nortag": [
+        "1878425363"
       ]
     },
     {
       "hc_lt_id_alb": "850701204",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "282051268",
       "hc_lt_id_sptag": "1829478919",
       "id_img": "LogHorizon_904292_crop2608_-1201000901",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieG0hBE4TTU36mjgIGChTSnGVPlqflpkKZgM9I11vSm0ZVy4706IhQgSYlgwrgVRHU=",
@@ -109,50 +92,73 @@
         "1745749119",
         "68811063"
       ],
+      "list_id_nortag": [
+        "1878425363",
+        "-837850212",
+        "-280559065"
+      ],
       "lt_id_sptag": [
         "-154622774",
         "-326078627",
         "1439812287",
         "-1783086774"
       ]
+    },
+    {
+      "hc_lt_id_alb": "184277411",
+      "hc_lt_id_nortag": "1884946112",
+      "hc_lt_id_sptag": "",
+      "id_img": "LogHorizon_789855_crop2608_2135921050",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif91Ir5zgghUqf+kdu+99EfJudnbthKZSNR7gTSDMbShZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif91Ir5zgghUqf+kdu+99EfaqAfnkFvfwIZWvu7X+X22JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1745749119"
+      ],
+      "list_id_nortag": [
+        "1878425363"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1469167862",
+      "hc_lt_id_nortag": "282051268",
+      "hc_lt_id_sptag": "",
+      "id_img": "LogHorizon_904292_crop2608_-1090621206",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvKc+jkvvVl6yW8Ycw41Fgm75sfTq2um+qSGxB7nYvPpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvKc+jkvvVl6yW8Ycw41FgINpAZTg6BqDcNcyYmFRlyJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1745749119",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1878425363",
+        "-837850212",
+        "-280559065"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-837850212",
+      "name_nortag": "Akatsuki Log Horizon",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-280559065",
+      "name_nortag": "Naotsugu Log Horizon",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1878425363",
+      "name_nortag": "Shiroe Log Horizon",
+      "total_img": 7
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
     },
     {
       "id_sptag": "635218351",
@@ -161,10 +167,40 @@
       "total": 25656
     },
     {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
       "id_sptag": "-1786946560",
       "key_sptag": "isGirlHair2ColorAnime",
       "name_sptag": "Girls Hair 2 Color",
       "total": 1686
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
       "id_sptag": "1439812287",
@@ -173,10 +209,10 @@
       "total": 24284
     },
     {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

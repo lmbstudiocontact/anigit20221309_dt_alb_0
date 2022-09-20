@@ -4,20 +4,20 @@
   "name_alb": "Burst Angel",
   "total_img": 1,
   "total_page": 0,
-  "hc_lt_alb": "1073461698",
+  "hc_lt_alb": "305731744",
   "hc_lt_data_img": "1852544728",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-403120343",
+  "hc_lt_sptag": "-951029721",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "-337849151",
       "name_alb": "Burst Angel",
       "total_img": 1
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
@@ -43,22 +43,16 @@
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
       "id_sptag": "-1436512555",
       "key_sptag": "isDarkBlack",
       "name_sptag": "Dark Black",
       "total": 4051
+    },
+    {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
       "id_sptag": "-1782893951",
@@ -71,6 +65,12 @@
       "key_sptag": "isGirlHairBrownAnime",
       "name_sptag": "Girls Hair Brow",
       "total": 13760
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     }
   ]
 }

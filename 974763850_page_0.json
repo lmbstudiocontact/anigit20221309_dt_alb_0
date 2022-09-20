@@ -4,11 +4,16 @@
   "name_alb": "Sound Horizon",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "183884204",
-  "hc_lt_data_img": "-1634134523",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1700442231",
+  "hc_lt_alb": "189855928",
+  "hc_lt_data_img": "-1250945184",
+  "hc_lt_nortag": "607202391",
+  "hc_lt_sptag": "-1112194603",
   "lt_alb": [
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
@@ -18,17 +23,24 @@
       "id_alb": "974763850",
       "name_alb": "Sound Horizon",
       "total_img": 2
-    },
-    {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1556199743",
+      "hc_lt_id_alb": "-107077676",
       "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "SoundHorizon_922430_crop2608_202169661",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0ok7KnST1RSi6I+jH6daIoTZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0om1c77qNqi0F/oVdMQNwsV5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "974763850",
+        "2024260576"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1556199743",
+      "hc_lt_id_nortag": "67612429",
       "hc_lt_id_sptag": "-91638906",
       "id_img": "SoundHorizon_685160_crop2608_-1781628405",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxCrENb8vWgtx0WoCTxvG2BXVW4ipNoyWKMIfzJSs2gpVy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +48,12 @@
       "lt_id_alb": [
         "68811063",
         "974763850"
+      ],
+      "list_id_nortag": [
+        "1416120134",
+        "1992679946",
+        "-1050720203",
+        "2076425"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -50,32 +68,66 @@
         "1443397502",
         "-1786946560"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1416120134",
+      "name_nortag": "Aqua Eyes",
+      "total_img": 65
     },
     {
-      "hc_lt_id_alb": "-107077676",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "SoundHorizon_922430_crop2608_202169661",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0ok7KnST1RSi6I+jH6daIoTZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0om1c77qNqi0F/oVdMQNwsV5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "974763850",
-        "2024260576"
-      ]
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "2076425",
+      "name_nortag": "Book",
+      "total_img": 116
+    },
+    {
+      "id_nortag": "-1050720203",
+      "name_nortag": "Headband",
+      "total_img": 73
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
+    },
+    {
+      "id_sptag": "-143380300",
+      "key_sptag": "isGirlHairGreyAnime",
+      "name_sptag": "Girls Hair Grey",
+      "total": 9239
     },
     {
       "id_sptag": "-120608061",
       "key_sptag": "isGirlHairOrangeAnime",
       "name_sptag": "Girls Hair Orange",
       "total": 4128
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
       "id_sptag": "-135339788",
@@ -90,22 +142,10 @@
       "total": 12651
     },
     {
-      "id_sptag": "-143380300",
-      "key_sptag": "isGirlHairGreyAnime",
-      "name_sptag": "Girls Hair Grey",
-      "total": 9239
-    },
-    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
     },
     {
       "id_sptag": "1911583362",
@@ -114,22 +154,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
       "id_sptag": "1443397502",
       "key_sptag": "isGirlWitchAnime",
       "name_sptag": "Girls Witch",
       "total": 8338
-    },
-    {
-      "id_sptag": "-1786946560",
-      "key_sptag": "isGirlHair2ColorAnime",
-      "name_sptag": "Girls Hair 2 Color",
-      "total": 1686
     }
   ]
 }

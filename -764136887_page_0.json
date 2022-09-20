@@ -4,23 +4,42 @@
   "name_alb": "Sangai Senki",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-524979196",
+  "hc_lt_alb": "76833246",
   "hc_lt_data_img": "-1560711584",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "2098958931",
+  "hc_lt_sptag": "-1755009743",
   "lt_alb": [
-    {
-      "id_alb": "-764136887",
-      "name_alb": "Sangai Senki",
-      "total_img": 4
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-764136887",
+      "name_alb": "Sangai Senki",
+      "total_img": 4
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1619548077",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-932614878",
+      "id_img": "SangaiSenki_863970_crop2608_-1798471279",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREgNlqU3aWshZ2ZKXY0hKUiMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREg+xhVSSppV/h70BefYTrgX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-764136887",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-120608061",
+        "936615491",
+        "-1811357781",
+        "-326078627",
+        "1911583362"
+      ]
+    },
     {
       "hc_lt_id_alb": "1619548077",
       "hc_lt_id_nortag": "",
@@ -45,10 +64,10 @@
     {
       "hc_lt_id_alb": "1619548077",
       "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-932614878",
-      "id_img": "SangaiSenki_863970_crop2608_-1798471279",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREgNlqU3aWshZ2ZKXY0hKUiMpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREg+xhVSSppV/h70BefYTrgX5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-366216198",
+      "id_img": "SangaiSenki_863973_crop2608_-1798471276",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqV9f3XqoTbgP6dEiMEG7u0JJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqVPEZxDPwLeMCovCy8S0lW05Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-764136887",
         "68811063"
@@ -57,6 +76,8 @@
         "-120608061",
         "936615491",
         "-1811357781",
+        "82870",
+        "126637389",
         "-326078627",
         "1911583362"
       ]
@@ -81,41 +102,20 @@
         "635218351",
         "-1786946560"
       ]
-    },
-    {
-      "hc_lt_id_alb": "1619548077",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-366216198",
-      "id_img": "SangaiSenki_863973_crop2608_-1798471276",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqV9f3XqoTbgP6dEiMEG7u0JJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqVPEZxDPwLeMCovCy8S0lW05Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-764136887",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-120608061",
-        "936615491",
-        "-1811357781",
-        "82870",
-        "126637389",
-        "-326078627",
-        "1911583362"
-      ]
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
     {
       "id_sptag": "936615491",
       "key_sptag": "isGirlEyesOrangeAnime",
       "name_sptag": "Girls Eyes Orange",
       "total": 3828
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
     },
     {
       "id_sptag": "-1364967268",
@@ -124,40 +124,10 @@
       "total": 12697
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "-369386728",
-      "key_sptag": "isGirlMaidAnime",
-      "name_sptag": "Girls Maid",
-      "total": 2625
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
     },
     {
       "id_sptag": "-154622774",
@@ -172,28 +142,58 @@
       "total": 9528
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
     },
     {
-      "id_sptag": "-1786946560",
-      "key_sptag": "isGirlHair2ColorAnime",
-      "name_sptag": "Girls Hair 2 Color",
-      "total": 1686
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
     },
     {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369386728",
+      "key_sptag": "isGirlMaidAnime",
+      "name_sptag": "Girls Maid",
+      "total": 2625
     },
     {
       "id_sptag": "126637389",
       "key_sptag": "isGirlSadAnime",
       "name_sptag": "Girls Sad",
       "total": 10506
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

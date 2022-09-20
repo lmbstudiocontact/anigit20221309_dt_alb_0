@@ -4,16 +4,11 @@
   "name_alb": "Rage of Bahamut Genesis",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "339386691",
+  "hc_lt_alb": "-1694669961",
   "hc_lt_data_img": "-487997973",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-533251473",
+  "hc_lt_sptag": "291158097",
   "lt_alb": [
-    {
-      "id_alb": "-1692790810",
-      "name_alb": "Rage of Bahamut Genesis",
-      "total_img": 4
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
@@ -23,25 +18,14 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1692790810",
+      "name_alb": "Rage of Bahamut Genesis",
+      "total_img": 4
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "1933677318",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "862791854",
-      "id_img": "RageofBahamutGenesis_822969_crop2608_-412120803",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPdF3DeOJKaTVZYLWKxXjCiQP71hagCjgwcHZNK8GpmZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPdF3DeOJKaTVZYLWKxXjC3Ljeh3gY0BRCCr9Bjds41pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1692790810",
-        "66988"
-      ],
-      "lt_id_sptag": [
-        "82870",
-        "1736318786"
-      ]
-    },
     {
       "hc_lt_id_alb": "1315210660",
       "hc_lt_id_nortag": "",
@@ -65,9 +49,9 @@
       "hc_lt_id_alb": "1933677318",
       "hc_lt_id_nortag": "",
       "hc_lt_id_sptag": "862791854",
-      "id_img": "RageofBahamutGenesis_972753_crop2608_895168730",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefvYhYUGoAp5IkbsdTF9XiygOP1WJW0zfUtJw1sT1atZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefvYhYUGoAp5IkbsdTF9XiaCF5DJQ5HzrdToFaUEOp6pVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "RageofBahamutGenesis_822969_crop2608_-412120803",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPdF3DeOJKaTVZYLWKxXjCiQP71hagCjgwcHZNK8GpmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPdF3DeOJKaTVZYLWKxXjC3Ljeh3gY0BRCCr9Bjds41pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1692790810",
         "66988"
@@ -88,15 +72,25 @@
         "-1692790810",
         "66988"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1933677318",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "862791854",
+      "id_img": "RageofBahamutGenesis_972753_crop2608_895168730",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefvYhYUGoAp5IkbsdTF9XiygOP1WJW0zfUtJw1sT1atZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefvYhYUGoAp5IkbsdTF9XiaCF5DJQ5HzrdToFaUEOp6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1692790810",
+        "66988"
+      ],
+      "lt_id_sptag": [
+        "82870",
+        "1736318786"
+      ]
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
     {
       "id_sptag": "1736318786",
       "key_sptag": "isBoySad",
@@ -110,16 +104,16 @@
       "total": 3828
     },
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
       "id_sptag": "-143162340",
       "key_sptag": "isGirlHairRedAnime",
       "name_sptag": "Girls Hair Red",
       "total": 3081
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -132,6 +126,12 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

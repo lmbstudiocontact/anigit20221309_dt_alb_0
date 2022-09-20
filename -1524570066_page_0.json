@@ -7,7 +7,7 @@
   "hc_lt_alb": "-1310994248",
   "hc_lt_data_img": "-195974734",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-416513402",
+  "hc_lt_sptag": "-746282142",
   "lt_alb": [
     {
       "id_alb": "-1524570066",
@@ -43,16 +43,16 @@
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
       "name_sptag": "Girls Eyes Brown",
       "total": 9376
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
     },
     {
       "id_sptag": "-326078627",

@@ -4,15 +4,15 @@
   "name_alb": "Devil Survivor 2 The Animation",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-1892229559",
+  "hc_lt_alb": "-1512444151",
   "hc_lt_data_img": "2088863412",
   "hc_lt_nortag": "",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
-      "id_alb": "-230809819",
-      "name_alb": "Devil Survivor 2 The Animation",
-      "total_img": 2
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "2024260576",
@@ -20,24 +20,12 @@
       "total_img": 2059
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "-230809819",
+      "name_alb": "Devil Survivor 2 The Animation",
+      "total_img": 2
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-1305040120",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DevilSurvivor2TheAnimation_704738_crop2608_-679603557",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+ggNnX2IKtM0qtMUaVSnyIipVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+gEOMyWEkYpb8AN1X624g8EpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-230809819",
-        "2024260576"
-      ]
-    },
     {
       "hc_lt_id_alb": "-788828071",
       "hc_lt_id_nortag": "",
@@ -48,6 +36,18 @@
       "lt_id_alb": [
         "-230809819",
         "66988"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1305040120",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "DevilSurvivor2TheAnimation_704738_crop2608_-679603557",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+ggNnX2IKtM0qtMUaVSnyIipVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+gEOMyWEkYpb8AN1X624g8EpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-230809819",
+        "2024260576"
       ]
     }
   ]

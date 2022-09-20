@@ -4,15 +4,15 @@
   "name_alb": "Kamisama Kiss",
   "total_img": 13,
   "total_page": 0,
-  "hc_lt_alb": "-1753106127",
-  "hc_lt_data_img": "-2129772431",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-195103243",
+  "hc_lt_alb": "1684341697",
+  "hc_lt_data_img": "1168038594",
+  "hc_lt_nortag": "627964489",
+  "hc_lt_sptag": "819991143",
   "lt_alb": [
     {
-      "id_alb": "-2034900982",
-      "name_alb": "Kamisama Kiss",
-      "total_img": 13
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "2024260576",
@@ -25,15 +25,30 @@
       "total_img": 68557
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "-2034900982",
+      "name_alb": "Kamisama Kiss",
+      "total_img": 13
     }
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-482800434",
+      "hc_lt_id_nortag": "-1332157159",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_869494_crop2608_1300929299",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu4HoAdruF+gP0FMCvqQEolmbHnki2AUquOrlHYABdfJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu4HoAdruF+gP0FMCvqQEo7mIS6a50L6QWcUx3XWKGpZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "331077746"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-532545213",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "251132364",
       "hc_lt_id_sptag": "",
       "id_img": "KamisamaKiss_711397_crop2608_-101831751",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoJcqtx7N/Jxr5xFOAffMEEarwp8O5AKpFKqjJaQJ9o5Vy4706IhQgSYlgwrgVRHU=",
@@ -41,11 +56,77 @@
       "lt_id_alb": [
         "-2034900982",
         "2024260576"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-2080399291",
+      "hc_lt_id_nortag": "251132364",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_944714_crop2608_438431218",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkyOuTo0kct/MK1Jcy7fNERiLjgK/SbeBua+t8SWomkZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkyOuTo0kct/MK1Jcy7fNEZTWXC8kCc8lQVjvlNaaszZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-482800434",
+      "hc_lt_id_nortag": "251132364",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_869579_crop2608_708991063",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4Y81jP4JPDLsfOe8XtJvaOCfqLUW25MWe8YpDhOcJN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4Y81jP4JPDLsfOe8XtJvaAVnqp8dgAq1quibWKhFep5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-532545213",
+      "hc_lt_id_nortag": "251132364",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_869579_crop2608_-1671835493",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNooRiDYG38Z8hoYa21mrUiHfOuKAOEcMdOJvBrv0EOJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNooRiDYG38Z8hoYa21mrU5VSv6l7zRxiM8eEp04DrOJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2034900982",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-2080399291",
+      "hc_lt_id_nortag": "251132364",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_944714_crop2608_-1469256096",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbRihk3VknUqhdVUtZnRpJ6dFh+uS9hJUVXzi1grShRZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbRihk3VknUqhdVUtZnRpJH3TJETa+W7wpFTpXlwJo+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
       ]
     },
     {
       "hc_lt_id_alb": "1819569648",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1575094510",
       "hc_lt_id_sptag": "-735868222",
       "id_img": "KamisamaKiss_869488_crop2608_-748263880",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqytukGYgaCerse09gds27Te1yp3ZmbZWd2EcqIDlx8JVy4706IhQgSYlgwrgVRHU=",
@@ -53,6 +134,9 @@
       "lt_id_alb": [
         "68811063",
         "-2034900982"
+      ],
+      "list_id_nortag": [
+        "1802591256"
       ],
       "lt_id_sptag": [
         "-1782893951",
@@ -63,104 +147,23 @@
     },
     {
       "hc_lt_id_alb": "-532545213",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "251132364",
       "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_869489_crop2608_759287929",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrO7J5HPFB45JZfLZrWWfHARgdJLEcSD8BiRzXCHYiQJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrO7J5HPFB45JZfLZrWWfH7xYE586GH0nXuy2w6nB9U5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KamisamaKiss_869482_crop2608_505690336",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCSEhYtpRqCjhZsxYJgzFWNXiXOzIfLrow6hkNSW4X0ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCSEhYtpRqCjhZsxYJgzFWJBCXHbvEqvNe3u/O1f7HkpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-2034900982",
         "2024260576"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-482800434",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_869494_crop2608_1300929299",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu4HoAdruF+gP0FMCvqQEolmbHnki2AUquOrlHYABdfJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu4HoAdruF+gP0FMCvqQEo7mIS6a50L6QWcUx3XWKGpZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-2034900982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-532545213",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_869579_crop2608_-1671835493",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNooRiDYG38Z8hoYa21mrUiHfOuKAOEcMdOJvBrv0EOJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNooRiDYG38Z8hoYa21mrU5VSv6l7zRxiM8eEp04DrOJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2034900982",
-        "2024260576"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-482800434",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_869579_crop2608_708991063",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4Y81jP4JPDLsfOe8XtJvaOCfqLUW25MWe8YpDhOcJN5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4Y81jP4JPDLsfOe8XtJvaAVnqp8dgAq1quibWKhFep5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-2034900982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-2080399291",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_944714_crop2608_-1469256096",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbRihk3VknUqhdVUtZnRpJ6dFh+uS9hJUVXzi1grShRZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbRihk3VknUqhdVUtZnRpJH3TJETa+W7wpFTpXlwJo+5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2034900982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-2080399291",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_944714_crop2608_-874581965",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvDn43CEhZsg12kAu7Oe9rW9GsqNpcMCgiOMSqQr8nPZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvDn43CEhZsg12kAu7Oe9reJ+H354TLaaVNW6PC17xIpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2034900982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-2080399291",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_944714_crop2608_438431218",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkyOuTo0kct/MK1Jcy7fNERiLjgK/SbeBua+t8SWomkZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkyOuTo0kct/MK1Jcy7fNEZTWXC8kCc8lQVjvlNaaszZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2034900982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-482800434",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "862791854",
-      "id_img": "KamisamaKiss_951577_crop2608_-569679937",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicErFCGvHmsZJGWVp0GTHF2mlP56DMrSGY9EVz31Iu4tpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicErFCGvHmsZJGWVp0GTHF2CG3j3zAQoNCzoLXW4OZd+5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-2034900982"
       ],
-      "lt_id_sptag": [
-        "82870",
-        "1736318786"
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
       ]
     },
     {
       "hc_lt_id_alb": "-482800434",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1332157159",
       "hc_lt_id_sptag": "862791854",
       "id_img": "KamisamaKiss_956884_crop2608_2061632377",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0/0kVjFI6eusZtirop8xQ9TaPTyxaOgo5ei73GP09+5Vy4706IhQgSYlgwrgVRHU=",
@@ -169,6 +172,9 @@
         "66988",
         "-2034900982"
       ],
+      "list_id_nortag": [
+        "331077746"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -176,7 +182,26 @@
     },
     {
       "hc_lt_id_alb": "-482800434",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1332157159",
+      "hc_lt_id_sptag": "862791854",
+      "id_img": "KamisamaKiss_951577_crop2608_-569679937",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicErFCGvHmsZJGWVp0GTHF2mlP56DMrSGY9EVz31Iu4tpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicErFCGvHmsZJGWVp0GTHF2CG3j3zAQoNCzoLXW4OZd+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "331077746"
+      ],
+      "lt_id_sptag": [
+        "82870",
+        "1736318786"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-482800434",
+      "hc_lt_id_nortag": "-1332157159",
       "hc_lt_id_sptag": "862791854",
       "id_img": "KamisamaKiss_956903_crop2608_1696696385",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHZS0If54V0E3xI+viODAgQKFHIksJNtmLdUXEboM2BZVy4706IhQgSYlgwrgVRHU=",
@@ -185,6 +210,9 @@
         "66988",
         "-2034900982"
       ],
+      "list_id_nortag": [
+        "331077746"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -192,23 +220,66 @@
     },
     {
       "hc_lt_id_alb": "-532545213",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "251132364",
       "hc_lt_id_sptag": "",
-      "id_img": "KamisamaKiss_869482_crop2608_505690336",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCSEhYtpRqCjhZsxYJgzFWNXiXOzIfLrow6hkNSW4X0ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCSEhYtpRqCjhZsxYJgzFWJBCXHbvEqvNe3u/O1f7HkpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KamisamaKiss_869489_crop2608_759287929",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrO7J5HPFB45JZfLZrWWfHARgdJLEcSD8BiRzXCHYiQJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrO7J5HPFB45JZfLZrWWfH7xYE586GH0nXuy2w6nB9U5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-2034900982",
         "2024260576"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-2080399291",
+      "hc_lt_id_nortag": "251132364",
+      "hc_lt_id_sptag": "",
+      "id_img": "KamisamaKiss_944714_crop2608_-874581965",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvDn43CEhZsg12kAu7Oe9rW9GsqNpcMCgiOMSqQr8nPZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvDn43CEhZsg12kAu7Oe9reJ+H354TLaaVNW6PC17xIpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2034900982"
+      ],
+      "list_id_nortag": [
+        "1802591256",
+        "331077746"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1802591256",
+      "name_nortag": "Nanami Momozono",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "331077746",
+      "name_nortag": "Tomoe Kamisama Kiss",
+      "total_img": 12
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
+    },
     {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
       "name_sptag": "Girls Eyes Brown",
       "total": 9376
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
     },
     {
       "id_sptag": "-326078627",
@@ -223,22 +294,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
       "id_sptag": "82870",
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

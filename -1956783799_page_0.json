@@ -4,20 +4,20 @@
   "name_alb": "Gargantia on the Verdurous Planet",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-271742612",
+  "hc_lt_alb": "1554071094",
   "hc_lt_data_img": "1758544648",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1787923685",
+  "hc_lt_sptag": "-356258819",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "-1956783799",
       "name_alb": "Gargantia on the Verdurous Planet",
       "total_img": 2
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
@@ -63,22 +63,34 @@
   ],
   "lt_sptag": [
     {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
       "name_sptag": "Girls Hair Black",
       "total": 16737
     },
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
     },
     {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -93,22 +105,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
       "id_sptag": "-1743477818",
       "key_sptag": "isGirlWaterRainAnime",
       "name_sptag": "Girls Water Rain",
       "total": 2954
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

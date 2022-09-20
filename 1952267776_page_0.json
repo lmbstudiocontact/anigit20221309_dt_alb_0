@@ -7,7 +7,7 @@
   "hc_lt_alb": "-799146929",
   "hc_lt_data_img": "-1508849982",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "1617882114",
+  "hc_lt_sptag": "-659886166",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -43,22 +43,16 @@
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
       "name_sptag": "Girls Eyes Brown",
       "total": 9376
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
       "id_sptag": "-326078627",
@@ -71,6 +65,12 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }
